@@ -66,7 +66,7 @@ else Console.Write("Число Нечетное");
 
 //Задача 8: Напишите программу, которая на вход принимает число (N)
 //а на выходе показывает все чётные числа от 1 до N.
-/*
+
 Console.Write("Введи число: N ");
 int N = Convert.ToInt32(Console.ReadLine());
 int cont = 0;
@@ -75,5 +75,5 @@ while (cont < N )
     Console.Write(cont + ", ");
     cont = cont + 2;
 }
-Console.Write(N);
-*/
+if (N % 2 == 0) Console.Write(N);
+
