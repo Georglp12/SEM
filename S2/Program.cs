@@ -92,24 +92,7 @@ Console.WriteLine($" Вторая цифра в заданом {NN}");
 //или сообщает, что третьей цифры нет.
 
 /*
-int cut3(int x, int y)
-{
-    int m = y - 3; 
-    int i = 0;
-         while (i < m)
-         {
-         x = x / 10;
-         i++;
-        }
-        x = x % 10;
-        return x;
-}
-Console.Write("Введи число: N ");
-int a = Convert.ToInt32(Console.ReadLine());
-int d = a.ToString().Length;
-if (d < 3) Console.Write("В числе меньше 3 цифр, всего лишь "); 
-int ans = cut3(a,d);
-Console.WriteLine (ans); 
+
 */
 //Задача 15: Напишите программу, которая принимает на вход цифру, 
 //обозначающую день недели, и проверяет,
