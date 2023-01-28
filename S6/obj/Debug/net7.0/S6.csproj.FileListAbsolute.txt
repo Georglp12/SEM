@@ -1,0 +1,15 @@
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\bin\Debug\net7.0\S6.exe
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\bin\Debug\net7.0\S6.deps.json
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\bin\Debug\net7.0\S6.runtimeconfig.json
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\bin\Debug\net7.0\S6.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\bin\Debug\net7.0\S6.pdb
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.csproj.AssemblyReference.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.AssemblyInfoInputs.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.AssemblyInfo.cs
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.csproj.CoreCompileInputs.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\refint\S6.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.pdb
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\S6.genruntimeconfig.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\S6\obj\Debug\net7.0\ref\S6.dll
