@@ -153,7 +153,7 @@ void f (int[,] array)
     { double a = 0;
         for (int j = 0; j < array.GetLength(1); j++) 
         a = a + array[i,j];
-        Console.Write($"Average of row {i + 1} is {a / array.GetLength(0) }");
+        Console.Write($"Avrag row {i + 1} is {a / array.GetLength(0) }");
     Console.WriteLine();
     }
      Console.WriteLine();

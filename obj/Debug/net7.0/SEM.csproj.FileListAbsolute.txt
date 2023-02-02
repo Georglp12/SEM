@@ -1,0 +1,5 @@
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\obj\Debug\net7.0\SEM.csproj.AssemblyReference.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\obj\Debug\net7.0\SEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\obj\Debug\net7.0\SEM.AssemblyInfoInputs.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\obj\Debug\net7.0\SEM.AssemblyInfo.cs
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\obj\Debug\net7.0\SEM.csproj.CoreCompileInputs.cache

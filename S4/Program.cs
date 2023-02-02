@@ -160,7 +160,7 @@ int[] NA = Cra(Length, min, max);
 SA(NA);
 SumA(NA);
 */
-
+/*
 //Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 int[] A(int size) 
 {
@@ -185,3 +185,8 @@ Console.Write("input a length of array: ");
 int Length = Convert.ToInt32(Console.ReadLine());
 int[] NA = A(Length);
 SA(NA);
+*/
+
+int a = 11 / 2;
+int b = 10 / 2;
+Console.Write(a , b);

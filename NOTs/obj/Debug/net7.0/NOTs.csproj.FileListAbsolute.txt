@@ -1,0 +1,15 @@
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.csproj.AssemblyReference.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.AssemblyInfoInputs.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.AssemblyInfo.cs
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.csproj.CoreCompileInputs.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\bin\Debug\net7.0\NOTs.exe
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\bin\Debug\net7.0\NOTs.deps.json
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\bin\Debug\net7.0\NOTs.runtimeconfig.json
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\bin\Debug\net7.0\NOTs.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\bin\Debug\net7.0\NOTs.pdb
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\refint\NOTs.dll
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.pdb
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\NOTs.genruntimeconfig.cache
+C:\Users\EgorLipi\Desktop\C#\sem\SEM\NOTs\obj\Debug\net7.0\ref\NOTs.dll
